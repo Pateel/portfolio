@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand .brand-logo {
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #008080;
+}
+
+.navbar {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.jumbotron {
+    background-color: #f0fff0;  
+}
+
+.container-fluid {
+    align-content: center;
+}
+
+.display-4 {
+    margin-bottom: 10px;
+    font-weight: 500;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.col-blurb {
+    color: black;
+    font-style: normal;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;  
+}
+
+.col-sm-4 {
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    color: #8b0000;
+}
+
+.col-lg-12 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.resume {
+    background-color: #c9e0f9;
+    border: 1px;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #008080; 
+    color: #ffffff;
+    border: 1px solid #008080;
+    margin-right: 15px;
+    padding-right: 20px;
+    padding-left: 20px; 
+}
+
+.btn-primary:hover {
+    background-color: #f0fff0;
+    color: #000000;
+}
+
+.btn-secondary {
+    background-color: #6c757d; 
+    color: #ffffff;
+    border: 1px solid #6c757d;
+    margin-right: 5px;
+}
+
+.btn-secondary:hover {
+    background-color: #f0fff0;
+    color: #000000;
+}
+
+#video {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f3f5fd;
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+    border: 2px solid #7b7e92;
+    font-size: 1rem;
+    width: auto;
+  }
+  
+th {
+    background-color: azure;
+  }
+  
+td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+  }
+  
+td {
+    text-align: center;
+    background-color: #ffffff;
+  }
+  
+form {
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+
+.card-footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+  
